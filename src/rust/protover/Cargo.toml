@@ -11,7 +11,7 @@ name = "protover"
 test_linking_hack = []
 
 [dependencies]
-libc = "=0.2.39"
+libc = "=0.2.135"
 
 [dependencies.smartlist]
 path = "../smartlist"

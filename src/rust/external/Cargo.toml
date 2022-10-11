@@ -4,7 +4,7 @@ version = "0.0.1"
 name = "external"
 
 [dependencies]
-libc = "=0.2.39"
+libc = "=0.2.135"
 smartlist = { path = "../smartlist" }
 tor_allocate = { path = "../tor_allocate" }
 

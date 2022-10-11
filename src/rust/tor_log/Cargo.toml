@@ -15,7 +15,7 @@ path = "lib.rs"
 test_linking_hack = []
 
 [dependencies]
-libc = "0.2.39"
+libc = "0.2.135"
 
 [dependencies.tor_allocate]
 path = "../tor_allocate"
