@@ -4,7 +4,7 @@ version = "0.0.1"
 name = "tor_allocate"
 
 [dependencies]
-libc = "=0.2.135"
+libc = "=0.2.137"
 
 [lib]
 name = "tor_allocate"
