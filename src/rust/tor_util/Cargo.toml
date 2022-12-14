@@ -14,7 +14,7 @@ path = "../tor_allocate"
 path = "../tor_log"
 
 [dependencies]
-libc = "=0.2.137"
+libc = "=0.2.138"
 
 [features]
 # We have to define a feature here because doctests don't get cfg(test),
